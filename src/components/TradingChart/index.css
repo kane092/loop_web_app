@@ -1,0 +1,8 @@
+.TVChartContainer, .TVChartContainer iframe {
+	height: calc(578px);
+	border-radius: 20px;
+}
+
+.TVChartContainer .chart-page {
+	background-color: #1b1b1b;
+}
